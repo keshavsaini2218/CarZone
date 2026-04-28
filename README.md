@@ -3,7 +3,10 @@
 > An iOS app that helps used car sellers efficiently manage and track their vehicle inventory.
 
 ## 📱 Screenshots
-<!-- Add screenshots here -->
+<img width="326" height="644" alt="Screenshot 2026-04-28 at 11 45 24 AM" src="https://github.com/user-attachments/assets/9fc7c01e-bf46-4cb3-b491-d79ec12c9213" />
+<img width="324" height="644" alt="Screenshot 2026-04-28 at 11 45 55 AM" src="https://github.com/user-attachments/assets/642af64b-8d33-41b7-b0da-fb1ab45a4bb6" />
+<img width="314" height="639" alt="Screenshot 2026-04-28 at 11 46 15 AM" src="https://github.com/user-attachments/assets/5376d0b4-4478-4cf8-ba21-5d573dbbf16b" />
+
 
 ## 🚀 Features
 
